@@ -69,6 +69,6 @@ mengetik('yang saya ketahui bersama anda bahwa dunia ini sangatlah keras ...\nsa
 mengetik('saya jahat , tapi jahat saya menyelamatkan anda ...\nketahuilah , dunia ini memang keras seperti apa yang saya dan anda bicarakan ...\n')
 
 os.system('clear')
-mengetik('     [ 0day3xploit ]     ')
+mengetik('     [ OrangGanteng ]     ')
 
 os.system("exit")
