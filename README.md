@@ -2,7 +2,7 @@
 
 Cara install
 
-$pkg install got python python2
+$pkg install git python python2
 $git clone https://github.com/OrangGanteng/hack-facebook
 $cd hack-facebook
 
